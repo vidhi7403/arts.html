@@ -1,0 +1,126 @@
+@media(min-width:576px){
+  
+  
+  .mithi{
+   display: none;
+   
+
+  } 
+ 
+   .mithi2{
+   display: block;
+   width: 100%;
+
+ 
+  }
+  .mithi2 .imglogo{
+   width: 100%;
+   
+    }
+ 
+  .mithi2 .imglogo1{
+ width: 200px;
+   padding: 20px;
+   justify-content: center;
+ 
+ 
+  }
+  
+  .mithi2 .menu{
+   display: block;
+   width: 100%;
+   
+  }
+  .mithi2 .menu .m2{
+   margin: 10px;
+  }
+ 
+  .mithi2 .menu .m1{
+   margin: 10px;
+    padding: 0px 0px;
+ 
+  }
+ 
+  .mithi2 ul{
+    width: 100%;
+   margin-left: -5%;
+    padding: 0px 0px;
+  }
+ 
+  .mithi2 ul li{
+    padding: 2px;
+    
+  }
+ 
+  .mithi2 ul li a{
+   width: 100%;
+   padding: 10px;
+  }
+  .mithi2 ul li a .a1{
+   width: 80%;
+    
+  }
+  .mithi2 ul li a .a2{
+   width: 19%;
+    
+  }
+ 
+  /* .mithi2 */
+ 
+  .back {
+   background-image: url("img/slider.jpg");
+   background-attachment: fixed;
+   /* position: relative; */
+   height: 850px;
+   width: 100%;
+ }
+
+
+ .section2 {
+  width: 100%;
+ }
+.section2 h1 {
+   font-size: 50px;
+ }
+
+
+ .section2 .imgline{
+  width: 100%;
+
+ }
+ .section2 .imgline img{
+  width: 100%;
+
+ }
+ .section2 .imgline img{
+  width: 100%;
+
+ }
+
+ .section2 .btn ul {
+   width: 100%;
+   display: flex;
+   /* column-gap: 5px; */
+   list-style: none;
+   margin: 0px 0px 0px 0px;
+   padding: 0px 0px 0px 0px;
+
+ }
+
+ .section2 .btn ul li {
+   width: 100%;
+   text-align: center;
+   display: list-item;
+   margin : 30px 10px;
+
+ }
+
+ .section2 .btn ul a {
+   font-size: 14px;
+   width: 100%;
+   padding:3px 10px;
+
+ }
+
+ }
+
